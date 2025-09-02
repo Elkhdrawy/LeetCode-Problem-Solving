@@ -4,13 +4,14 @@ A collection of my solutions to LeetCode problems in C++, focusing on writing ef
 
 ## 📊 Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ekkhrawy?theme=light&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YourUserName?theme=light&font=Karma&ext=contest)
 
 ## 🗂️ Problem List
 
 | # | Title | Solution | Difficulty | Topics |
 |---| ----- | -------- | ---------- | ------ |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-contains-duplicate/contains_duplicate.cpp) | Easy | `Array`, `Hash Table`, `Sorting` |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./contains_duplicate.cpp) | Easy | `Array`, `Hash Table`, `Sorting` |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Valid_Anagram.cpp) | Easy | `String`, `Hash Table`, `Sorting` |
 
 ## 🛠️ How to Use
 
