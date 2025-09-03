@@ -19,10 +19,10 @@ This sheet contains:
 
 ## 🗂️ Problem List (Sample)  
 
-| #   | Title              | Solution | Difficulty | Topics                        |
-|-----|--------------------|----------|------------|-------------------------------|
-| 217 | Contains Duplicate | C++      | Easy       | Array, Hash Table, Sorting    |
-| 242 | Valid Anagram      | C++      | Easy       | String, Hash Table, Sorting   |
+| #   | Title | Solution | Difficulty | Topics |
+|-----|-------|----------|------------|--------|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-contains-duplicate/) | Easy | Array, Hash Table, Sorting |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./242-valid-anagram/) | Easy | String, Hash Table, Sorting |
 
 ➡️ Full problem list is available in the [Tracker Sheet](https://docs.google.com/spreadsheets/d/12PDbQkgkrDcgx7EzNyjkfTMTszW7btHwH_0j0ApWJ4o/edit?gid=0#gid=0).  
 
@@ -41,7 +41,6 @@ Each solution is self-contained and ready to run.
 ## 🧠 Approach  
 
 My problem-solving strategy focuses on:  
-
 - **Time Complexity** → Prioritizing optimal algorithms (`O(n)` or `O(log n)` when possible).  
 - **Space Complexity** → Minimizing memory usage without sacrificing readability.  
 - **Readability** → Writing clean, well-commented code that explains the logic.  
