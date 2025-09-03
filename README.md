@@ -1,5 +1,10 @@
 # 🚀 LeetCode Problem Solving  
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Elkhdrawy/LeetCode-Problem-Solving?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/Elkhdrawy/LeetCode-Problem-Solving?color=green)
+![GitHub stars](https://img.shields.io/github/stars/Elkhdrawy/LeetCode-Problem-Solving?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Elkhdrawy/LeetCode-Problem-Solving?style=social)
+
 A collection of my solutions to **LeetCode** problems in **C++**, focusing on writing efficient, clean, and well-documented code.  
 
 ---
@@ -21,8 +26,8 @@ This sheet contains:
 
 | #   | Title | Solution | Difficulty | Topics |
 |-----|-------|----------|------------|--------|
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-contains-duplicate/) | Easy | Array, Hash Table, Sorting |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./242-valid-anagram/) | Easy | String, Hash Table, Sorting |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++ Solution](https://github.com/Elkhdrawy/LeetCode-Problem-Solving/blob/main/contains_duplicate.cpp) | Easy | Array, Hash Table, Sorting |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++ Solution](https://github.com/Elkhdrawy/LeetCode-Problem-Solving/blob/main/Valid_Anagram.cpp) | Easy | String, Hash Table, Sorting |
 
 ➡️ Full problem list is available in the [Tracker Sheet](https://docs.google.com/spreadsheets/d/12PDbQkgkrDcgx7EzNyjkfTMTszW7btHwH_0j0ApWJ4o/edit?gid=0#gid=0).  
 
@@ -30,9 +35,8 @@ This sheet contains:
 
 ## 🛠️ How to Use  
 
-1. Navigate to the problem folder (e.g., `217-contains-duplicate`).  
-2. Open the C++ solution file.  
-3. Copy & paste the solution into the **LeetCode editor**.  
+1. Navigate to the problem folder (or open the solution link directly from the table).  
+2. Copy & paste the solution into the **LeetCode editor**.  
 
 Each solution is self-contained and ready to run.  
 
