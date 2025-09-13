@@ -97,9 +97,9 @@ While this is primarily my personal repository, I welcome:
 
 ## 📬 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Elkhdrawy](https://github.com/Elkhdrawy)
-- LeetCode: [Your LeetCode Profile]
+- LinkedIn: https://www.linkedin.com/in/ahmed-elkhdrawy-37a380300/
+- GitHub: https://github.com/Elkhdrawy
+- LeetCode: https://leetcode.com/u/AhmedElkhdrawy/
 
 ---
 
